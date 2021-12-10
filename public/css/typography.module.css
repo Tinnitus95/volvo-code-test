@@ -1,0 +1,17 @@
+.link {
+    color : #346cb5;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+.link:after {
+    content: " ";
+    display: inline-block;
+    height: 13px;
+    width: 13px;
+    background-image: url('../../docs/chevron-small.svg');
+    background-size: 13px 13px;
+    position: relative;
+    top:1px;
+    background-repeat: no-repeat;
+
+}

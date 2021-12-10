@@ -1,0 +1,11 @@
+.carCard {
+    padding: 1rem;
+    width: 25%;
+    box-sizing: border-box;
+}
+
+.car-card__image {
+     object-fit: contain;
+     position: relative;
+     height: unset;
+ }
